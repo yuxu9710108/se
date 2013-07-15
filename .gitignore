@@ -1,0 +1,6 @@
+tags
+csscope.*
+*.bak
+*~
+*.o
+*.cmd
