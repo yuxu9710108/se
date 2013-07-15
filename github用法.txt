@@ -1,0 +1,11 @@
+https://github.com/
+
+username: yuxu9710108
+passwd:yuxuhyh789456123
+
+新建立了项目se
+
+
+git clone git@github.com:yuxu9710108/se.git
+git remote -v
+git push origin master
