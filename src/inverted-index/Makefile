@@ -1,4 +1,4 @@
-OBJS =  create-iiconstr.o \
+OBJS =  docID.o \
 
 PROGRAM = iic 
 
