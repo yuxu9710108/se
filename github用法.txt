@@ -8,4 +8,32 @@ passwd:yuxuhyh789456123
 
 git clone git@github.com:yuxu9710108/se.git
 git remote -v
+
+git pull
 git push origin master
+
+
+git remote : 列出已经存在的远程分支
+
+=======================================
+新建仓库：
+git remote add name $URL:
+在URL上面创建名字为name的仓库
+name为仓库的名字
+
+git remote add origin git@github.com:yuxu9710108/helloworld.git
+
+
+======================================
+git fetch origin:获取远程更新
+git merge origin/master :把更新的内容合并到本地分支
+
+
+======================================
+git remote rm origin: 
+
+git remote show name
+
+
+参考资料网站
+http://gitref.org/
